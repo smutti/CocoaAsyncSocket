@@ -9,9 +9,9 @@
 /* Begin PBXBuildFile section */
 		653F6AAC1F706A2B0032722A /* GCDAsyncSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = 6CD9902D1B7789680011A685 /* GCDAsyncSocket.m */; };
 		653F6AAD1F706A2B0032722A /* GCDAsyncUdpSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = 6CD9902F1B7789680011A685 /* GCDAsyncUdpSocket.m */; };
-		653F6AAF1F706A360032722A /* GCDAsyncSocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 6CD9902C1B7789680011A685 /* GCDAsyncSocket.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		653F6AB01F706A360032722A /* GCDAsyncUdpSocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 6CD9902E1B7789680011A685 /* GCDAsyncUdpSocket.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		653F6AB11F706A360032722A /* CocoaAsyncSocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 6C55C7D11B7838B1006A7440 /* CocoaAsyncSocket.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		653F6AAF1F706A360032722A /* GCDAsyncSocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 6CD9902C1B7789680011A685 /* GCDAsyncSocket.h */; };
+		653F6AB01F706A360032722A /* GCDAsyncUdpSocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 6CD9902E1B7789680011A685 /* GCDAsyncUdpSocket.h */; };
+		653F6AB11F706A360032722A /* CocoaAsyncSocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 6C55C7D11B7838B1006A7440 /* CocoaAsyncSocket.h */; };
 		653F6AE71F707C550032722A /* GCDAsyncSocket.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6CD9902C1B7789680011A685 /* GCDAsyncSocket.h */; };
 		653F6AE81F707C550032722A /* GCDAsyncUdpSocket.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6CD9902E1B7789680011A685 /* GCDAsyncUdpSocket.h */; };
 		653F6AE91F707C550032722A /* CocoaAsyncSocket.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6C55C7D11B7838B1006A7440 /* CocoaAsyncSocket.h */; };
